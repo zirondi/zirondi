@@ -1,21 +1,34 @@
-### Hi there 👋
+### Hello 👋
 
 <!--
-**zirondi/zirondi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 
 [![Zirondi's github stats](https://github-readme-stats.vercel.app/api?username=zirondi&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+### 😄 Pronouns:
+My pronouns are: He/Him; Ele/Dele.
+
+### 🔭 I’m currently working on
+1. My Undergrad Research
+2. My 4th semester on CompSci 
+
+### 🌱 I’m currently learning
+1. Data Science
+2. React
+3. Python
+
+### 💬 Ask me about
+1. Python!
+2. Data Science!
+3. My university CEFET/RJ!
+
+### 🤔 I’m looking for help with
+1. React
+2. Angular
+
+### 📫 How to reach me
 
 [![Linkedin Badge](https://img.shields.io/badge/-Leandro%20Zirondi-1A1B27?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zirondi/)](https://www.linkedin.com/in/zirondi/)
 
