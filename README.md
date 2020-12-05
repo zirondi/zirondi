@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 
 [![Zirondi's github stats](https://github-readme-stats.vercel.app/api?username=zirondi&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Linkedin Badge](https://img.shields.io/badge/-Leandro%20Zirondi-8400a6?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zirondi/)](https://www.linkedin.com/in/zirondi/)
+[![Linkedin Badge](https://img.shields.io/badge/-Leandro%20Zirondi-1A1B27?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zirondi/)](https://www.linkedin.com/in/zirondi/)
+
+[![Gmail Badge](https://img.shields.io/badge/-zirondi.dev@gmail.com-1A1B27?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zirondi.dev@gmail.com)](mailto:zirondi.dev@gmail.com)
