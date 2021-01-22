@@ -12,7 +12,7 @@ My pronouns are: He/Him; Ele/Dele.
 
 ### 🔭 I’m currently working on
 1. My Undergrad Research
-2. My 4th semester on CompSci 
+2. My 5th semester on CompSci 
 
 ### 🌱 I’m currently learning
 1. Data Science
